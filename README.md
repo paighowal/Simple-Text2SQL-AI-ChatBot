@@ -1,6 +1,6 @@
 # Simple Text-to-SQL: Clinical Trials Chat
 
-A lightweight chatbot for querying clinical trial data using plain English. Ask questions about trials without writing SQL—the AI handles the database queries for you.
+A lightweight chatbot for querying clinical trial data using plain English. Ask questions about trials without writing SQL-the AI handles the database queries for you.
 
 ## What It Does
 
